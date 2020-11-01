@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-// The Cursor doesn't line up with the real cursor
 
 public class Following : MonoBehaviour
 {
